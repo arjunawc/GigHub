@@ -1,0 +1,319 @@
+C:\Projects\GigHub\GigHub\bin\GigHub.dll.config
+C:\Projects\GigHub\GigHub\bin\GigHub.dll
+C:\Projects\GigHub\GigHub\bin\GigHub.pdb
+C:\Projects\GigHub\GigHub\bin\Antlr3.Runtime.dll
+C:\Projects\GigHub\GigHub\bin\EntityFramework.dll
+C:\Projects\GigHub\GigHub\bin\EntityFramework.SqlServer.dll
+C:\Projects\GigHub\GigHub\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Projects\GigHub\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Projects\GigHub\GigHub\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Projects\GigHub\GigHub\bin\Microsoft.Owin.dll
+C:\Projects\GigHub\GigHub\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.dll
+C:\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.Google.dll
+C:\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Projects\GigHub\GigHub\bin\Microsoft.Web.Infrastructure.dll
+C:\Projects\GigHub\GigHub\bin\Newtonsoft.Json.dll
+C:\Projects\GigHub\GigHub\bin\Owin.dll
+C:\Projects\GigHub\GigHub\bin\System.Web.Helpers.dll
+C:\Projects\GigHub\GigHub\bin\System.Web.Mvc.dll
+C:\Projects\GigHub\GigHub\bin\System.Web.Optimization.dll
+C:\Projects\GigHub\GigHub\bin\System.Web.Razor.dll
+C:\Projects\GigHub\GigHub\bin\System.Web.WebPages.Deployment.dll
+C:\Projects\GigHub\GigHub\bin\System.Web.WebPages.dll
+C:\Projects\GigHub\GigHub\bin\System.Web.WebPages.Razor.dll
+C:\Projects\GigHub\GigHub\bin\WebGrease.dll
+C:\Projects\GigHub\GigHub\bin\System.Web.Helpers.xml
+C:\Projects\GigHub\GigHub\bin\System.Web.Mvc.xml
+C:\Projects\GigHub\GigHub\bin\System.Web.Optimization.xml
+C:\Projects\GigHub\GigHub\bin\System.Web.Razor.xml
+C:\Projects\GigHub\GigHub\bin\System.Web.WebPages.xml
+C:\Projects\GigHub\GigHub\bin\System.Web.WebPages.Deployment.xml
+C:\Projects\GigHub\GigHub\bin\System.Web.WebPages.Razor.xml
+C:\Projects\GigHub\GigHub\bin\Antlr3.Runtime.pdb
+C:\Projects\GigHub\GigHub\bin\Newtonsoft.Json.xml
+C:\Projects\GigHub\GigHub\bin\EntityFramework.xml
+C:\Projects\GigHub\GigHub\bin\EntityFramework.SqlServer.xml
+C:\Projects\GigHub\GigHub\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Projects\GigHub\GigHub\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Projects\GigHub\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Projects\GigHub\GigHub\bin\Microsoft.Owin.xml
+C:\Projects\GigHub\GigHub\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.xml
+C:\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.Google.xml
+C:\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Projects\GigHub\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Projects\GigHub\GigHub\obj\Debug\GigHub.dll
+C:\Projects\GigHub\GigHub\obj\Debug\GigHub.pdb
+C:\Projects\GigHub\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
+C:\Projects\GigHub\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
+C:\Projects\GigHub\GigHub\bin\System.Net.Http.Formatting.dll
+C:\Projects\GigHub\GigHub\bin\System.Web.Http.dll
+C:\Projects\GigHub\GigHub\bin\System.Web.Http.WebHost.dll
+C:\Projects\GigHub\GigHub\bin\System.Net.Http.Formatting.xml
+C:\Projects\GigHub\GigHub\bin\System.Web.Http.xml
+C:\Projects\GigHub\GigHub\bin\System.Web.Http.WebHost.xml
+C:\Projects\GigHub\GigHub\bin\AutoMapper.dll
+C:\Projects\GigHub\GigHub\bin\AutoMapper.xml
+C:\Projects\GigHub\GigHub\bin\WebActivatorEx.dll
+C:\Projects\GigHub\GigHub\bin\Microsoft.Practices.ServiceLocation.dll
+C:\Projects\GigHub\GigHub\bin\StructureMap.dll
+C:\Projects\GigHub\GigHub\bin\StructureMap.Net4.dll
+C:\Projects\GigHub\GigHub\bin\StructureMap.Web.dll
+C:\Projects\GigHub\GigHub\bin\Microsoft.Practices.ServiceLocation.pdb
+C:\Projects\GigHub\GigHub\bin\Microsoft.Practices.ServiceLocation.xml
+C:\Projects\GigHub\GigHub\bin\StructureMap.pdb
+C:\Projects\GigHub\GigHub\bin\StructureMap.xml
+C:\Projects\GigHub\GigHub\bin\StructureMap.Net4.pdb
+C:\Projects\GigHub\GigHub\bin\StructureMap.Web.pdb
+C:\Projects\GigHub\GigHub\bin\StructureMap.Web.xml
+C:\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.InitialModel.resources
+C:\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
+C:\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.OverrideConventionsForGigsAndGenres.resources
+C:\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
+C:\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddForeignKeyPropertiesToGig.resources
+C:\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddNameToApplicationUser.resources
+C:\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddAttendance.resources
+C:\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddFollowing.resources
+C:\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddIsCanceledToGig.resources
+C:\Projects\GigHub\GigHub\obj\Debug\GigHub.Migrations.AddNotification.resources
+C:\Projects\GigHub\GigHub\bin\Ninject.dll
+C:\Projects\GigHub\GigHub\bin\Ninject.Extensions.Conventions.dll
+C:\Projects\GigHub\GigHub\bin\Ninject.Web.Common.dll
+C:\Projects\GigHub\GigHub\bin\Ninject.Web.Mvc.dll
+C:\Projects\GigHub\GigHub\bin\Ninject.Web.WebApi.dll
+C:\Projects\GigHub\GigHub\bin\Ninject.xml
+C:\Projects\GigHub\GigHub\bin\Ninject.Extensions.Conventions.xml
+C:\Projects\GigHub\GigHub\bin\Ninject.Web.Common.xml
+C:\Projects\GigHub\GigHub\bin\Ninject.Web.Mvc.xml
+C:\Projects\GigHub\GigHub\bin\Ninject.Web.WebApi.xml
+C:\Projects\GigHub\GigHub\bin\FluentAssertions.Core.dll
+C:\Projects\GigHub\GigHub\bin\FluentAssertions.dll
+C:\Projects\GigHub\GigHub\bin\Moq.dll
+C:\Projects\GigHub\GigHub\bin\FluentAssertions.pdb
+C:\Projects\GigHub\GigHub\bin\FluentAssertions.xml
+C:\Projects\GigHub\GigHub\bin\FluentAssertions.Core.pdb
+C:\Projects\GigHub\GigHub\bin\FluentAssertions.Core.xml
+C:\Projects\GigHub\GigHub\bin\Moq.xml
+C:\Projects\GigHub\GigHub\bin\nunit.framework.dll
+C:\Projects\GigHub\GigHub\bin\nunit.framework.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\GigHub.dll.config
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\GigHub.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\GigHub.pdb
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Antlr3.Runtime.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\AutoMapper.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\EntityFramework.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\EntityFramework.SqlServer.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\FluentAssertions.Core.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\FluentAssertions.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.AspNet.Identity.Core.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Owin.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.Cookies.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.Facebook.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.Google.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.OAuth.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.Twitter.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Practices.ServiceLocation.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Web.Infrastructure.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Moq.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Newtonsoft.Json.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Ninject.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Ninject.Extensions.Conventions.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Ninject.Web.Common.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Ninject.Web.Mvc.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Ninject.Web.WebApi.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\nunit.framework.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Owin.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\StructureMap.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\StructureMap.Net4.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\StructureMap.Web.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\System.Net.Http.Formatting.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\System.Web.Helpers.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\System.Web.Http.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\System.Web.Http.WebHost.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\System.Web.Mvc.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\System.Web.Optimization.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\System.Web.Razor.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\System.Web.WebPages.Deployment.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\System.Web.WebPages.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\System.Web.WebPages.Razor.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\WebActivatorEx.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\WebGrease.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\AutoMapper.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\FluentAssertions.pdb
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\FluentAssertions.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\FluentAssertions.Core.pdb
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\FluentAssertions.Core.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Practices.ServiceLocation.pdb
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Practices.ServiceLocation.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Moq.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Ninject.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Ninject.Extensions.Conventions.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Ninject.Web.Common.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Ninject.Web.Mvc.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Ninject.Web.WebApi.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\nunit.framework.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\StructureMap.pdb
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\StructureMap.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\StructureMap.Net4.pdb
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\StructureMap.Web.pdb
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\StructureMap.Web.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\System.Net.Http.Formatting.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\System.Web.Http.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\System.Web.Http.WebHost.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\System.Web.Helpers.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\System.Web.Mvc.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\System.Web.Optimization.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\System.Web.Razor.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\System.Web.WebPages.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\System.Web.WebPages.Deployment.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\System.Web.WebPages.Razor.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Antlr3.Runtime.pdb
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Newtonsoft.Json.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\EntityFramework.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\EntityFramework.SqlServer.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.AspNet.Identity.Core.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Owin.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.Facebook.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.Cookies.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.OAuth.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.Google.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.Twitter.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\obj\Debug\GigHub.Migrations.InitialModel.resources
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\obj\Debug\GigHub.Migrations.OverrideConventionsForGigsAndGenres.resources
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\obj\Debug\GigHub.Migrations.AddForeignKeyPropertiesToGig.resources
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\obj\Debug\GigHub.Migrations.AddNameToApplicationUser.resources
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\obj\Debug\GigHub.Migrations.AddAttendance.resources
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\obj\Debug\GigHub.Migrations.AddFollowing.resources
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\obj\Debug\GigHub.Migrations.AddIsCanceledToGig.resources
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\obj\Debug\GigHub.Migrations.AddNotification.resources
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\obj\Debug\GigHub.dll
+H:\L\PluralSight\1 Mosh Hamedani\GigHubFinal\GigHub\obj\Debug\GigHub.pdb
+H:\L\GigHubFinal\GigHub\bin\GigHub.dll.config
+H:\L\GigHubFinal\GigHub\bin\GigHub.dll
+H:\L\GigHubFinal\GigHub\bin\GigHub.pdb
+H:\L\GigHubFinal\GigHub\bin\Antlr3.Runtime.dll
+H:\L\GigHubFinal\GigHub\bin\AutoMapper.dll
+H:\L\GigHubFinal\GigHub\bin\EntityFramework.dll
+H:\L\GigHubFinal\GigHub\bin\EntityFramework.SqlServer.dll
+H:\L\GigHubFinal\GigHub\bin\FluentAssertions.Core.dll
+H:\L\GigHubFinal\GigHub\bin\FluentAssertions.dll
+H:\L\GigHubFinal\GigHub\bin\Microsoft.AspNet.Identity.Core.dll
+H:\L\GigHubFinal\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+H:\L\GigHubFinal\GigHub\bin\Microsoft.AspNet.Identity.Owin.dll
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Owin.dll
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Owin.Host.SystemWeb.dll
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.Cookies.dll
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.dll
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.Facebook.dll
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.Google.dll
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.OAuth.dll
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.Twitter.dll
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Practices.ServiceLocation.dll
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Web.Infrastructure.dll
+H:\L\GigHubFinal\GigHub\bin\Moq.dll
+H:\L\GigHubFinal\GigHub\bin\Newtonsoft.Json.dll
+H:\L\GigHubFinal\GigHub\bin\Ninject.dll
+H:\L\GigHubFinal\GigHub\bin\Ninject.Extensions.Conventions.dll
+H:\L\GigHubFinal\GigHub\bin\Ninject.Web.Common.dll
+H:\L\GigHubFinal\GigHub\bin\Ninject.Web.Mvc.dll
+H:\L\GigHubFinal\GigHub\bin\Ninject.Web.WebApi.dll
+H:\L\GigHubFinal\GigHub\bin\nunit.framework.dll
+H:\L\GigHubFinal\GigHub\bin\Owin.dll
+H:\L\GigHubFinal\GigHub\bin\StructureMap.dll
+H:\L\GigHubFinal\GigHub\bin\StructureMap.Net4.dll
+H:\L\GigHubFinal\GigHub\bin\StructureMap.Web.dll
+H:\L\GigHubFinal\GigHub\bin\System.Net.Http.Formatting.dll
+H:\L\GigHubFinal\GigHub\bin\System.Web.Helpers.dll
+H:\L\GigHubFinal\GigHub\bin\System.Web.Http.dll
+H:\L\GigHubFinal\GigHub\bin\System.Web.Http.WebHost.dll
+H:\L\GigHubFinal\GigHub\bin\System.Web.Mvc.dll
+H:\L\GigHubFinal\GigHub\bin\System.Web.Optimization.dll
+H:\L\GigHubFinal\GigHub\bin\System.Web.Razor.dll
+H:\L\GigHubFinal\GigHub\bin\System.Web.WebPages.Deployment.dll
+H:\L\GigHubFinal\GigHub\bin\System.Web.WebPages.dll
+H:\L\GigHubFinal\GigHub\bin\System.Web.WebPages.Razor.dll
+H:\L\GigHubFinal\GigHub\bin\WebActivatorEx.dll
+H:\L\GigHubFinal\GigHub\bin\WebGrease.dll
+H:\L\GigHubFinal\GigHub\bin\AutoMapper.xml
+H:\L\GigHubFinal\GigHub\bin\FluentAssertions.pdb
+H:\L\GigHubFinal\GigHub\bin\FluentAssertions.xml
+H:\L\GigHubFinal\GigHub\bin\FluentAssertions.Core.pdb
+H:\L\GigHubFinal\GigHub\bin\FluentAssertions.Core.xml
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Practices.ServiceLocation.pdb
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Practices.ServiceLocation.xml
+H:\L\GigHubFinal\GigHub\bin\Moq.xml
+H:\L\GigHubFinal\GigHub\bin\Ninject.xml
+H:\L\GigHubFinal\GigHub\bin\Ninject.Extensions.Conventions.xml
+H:\L\GigHubFinal\GigHub\bin\Ninject.Web.Common.xml
+H:\L\GigHubFinal\GigHub\bin\Ninject.Web.Mvc.xml
+H:\L\GigHubFinal\GigHub\bin\Ninject.Web.WebApi.xml
+H:\L\GigHubFinal\GigHub\bin\nunit.framework.xml
+H:\L\GigHubFinal\GigHub\bin\StructureMap.pdb
+H:\L\GigHubFinal\GigHub\bin\StructureMap.xml
+H:\L\GigHubFinal\GigHub\bin\StructureMap.Net4.pdb
+H:\L\GigHubFinal\GigHub\bin\StructureMap.Web.pdb
+H:\L\GigHubFinal\GigHub\bin\StructureMap.Web.xml
+H:\L\GigHubFinal\GigHub\bin\System.Net.Http.Formatting.xml
+H:\L\GigHubFinal\GigHub\bin\System.Web.Http.xml
+H:\L\GigHubFinal\GigHub\bin\System.Web.Http.WebHost.xml
+H:\L\GigHubFinal\GigHub\bin\System.Web.Helpers.xml
+H:\L\GigHubFinal\GigHub\bin\System.Web.Mvc.xml
+H:\L\GigHubFinal\GigHub\bin\System.Web.Optimization.xml
+H:\L\GigHubFinal\GigHub\bin\System.Web.Razor.xml
+H:\L\GigHubFinal\GigHub\bin\System.Web.WebPages.xml
+H:\L\GigHubFinal\GigHub\bin\System.Web.WebPages.Deployment.xml
+H:\L\GigHubFinal\GigHub\bin\System.Web.WebPages.Razor.xml
+H:\L\GigHubFinal\GigHub\bin\Antlr3.Runtime.pdb
+H:\L\GigHubFinal\GigHub\bin\Newtonsoft.Json.xml
+H:\L\GigHubFinal\GigHub\bin\EntityFramework.xml
+H:\L\GigHubFinal\GigHub\bin\EntityFramework.SqlServer.xml
+H:\L\GigHubFinal\GigHub\bin\Microsoft.AspNet.Identity.Core.xml
+H:\L\GigHubFinal\GigHub\bin\Microsoft.AspNet.Identity.Owin.xml
+H:\L\GigHubFinal\GigHub\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Owin.xml
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Owin.Host.SystemWeb.xml
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.xml
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.Facebook.xml
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.Cookies.xml
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.OAuth.xml
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.Google.xml
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.Twitter.xml
+H:\L\GigHubFinal\GigHub\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+H:\L\GigHubFinal\GigHub\obj\Debug\GigHub.csprojResolveAssemblyReference.cache
+H:\L\GigHubFinal\GigHub\obj\Debug\GigHub.Migrations.InitialModel.resources
+H:\L\GigHubFinal\GigHub\obj\Debug\GigHub.Migrations.CreateGigTable.resources
+H:\L\GigHubFinal\GigHub\obj\Debug\GigHub.Migrations.OverrideConventionsForGigsAndGenres.resources
+H:\L\GigHubFinal\GigHub\obj\Debug\GigHub.Migrations.PopulateGenresTable.resources
+H:\L\GigHubFinal\GigHub\obj\Debug\GigHub.Migrations.AddForeignKeyPropertiesToGig.resources
+H:\L\GigHubFinal\GigHub\obj\Debug\GigHub.Migrations.AddNameToApplicationUser.resources
+H:\L\GigHubFinal\GigHub\obj\Debug\GigHub.Migrations.AddAttendance.resources
+H:\L\GigHubFinal\GigHub\obj\Debug\GigHub.Migrations.AddFollowing.resources
+H:\L\GigHubFinal\GigHub\obj\Debug\GigHub.Migrations.AddIsCanceledToGig.resources
+H:\L\GigHubFinal\GigHub\obj\Debug\GigHub.Migrations.AddNotification.resources
+H:\L\GigHubFinal\GigHub\obj\Debug\GigHub.csproj.GenerateResource.Cache
+H:\L\GigHubFinal\GigHub\obj\Debug\GigHub.csproj.CoreCompileInputs.cache
+H:\L\GigHubFinal\GigHub\obj\Debug\GigHub.dll
+H:\L\GigHubFinal\GigHub\obj\Debug\GigHub.pdb
